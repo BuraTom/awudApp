@@ -12,8 +12,8 @@ import "package:awud_application/pages/library.dart";
 import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 //import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-var IpAddresse = "192.168.43.128";
-
+//var IpAddresse = "192.168.43.128";
+var IpAddresse = "192.168.43.196";
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Stripe.publishableKey =
