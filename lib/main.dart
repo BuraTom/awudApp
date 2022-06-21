@@ -25,8 +25,8 @@ void main() async {
   // }else{
   //   runApp(navBar());
   // }
-  runApp(MyAppp());
-//  runApp(navBar());
+//  runApp(MyAppp());
+ runApp(navBar());
 }
 
 class navBar extends StatefulWidget {
